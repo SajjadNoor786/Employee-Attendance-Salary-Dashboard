@@ -40,11 +40,8 @@ This project simplifies HR tasks, ensuring accurate salary calculations and clea
 ### Main Dashboard
 ![Dashboard Overview](Dashboard.png)
 
-### Salary Breakdown
-![Salary Breakdown](Images/salary_breakdown.png)
-
 ### Project Banner
-![Project Banner](Images/project_banner.png)
+![Project Banner](Images/A1.jpg)
 
 ---
 
