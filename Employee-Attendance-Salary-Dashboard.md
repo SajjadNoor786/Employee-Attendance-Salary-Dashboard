@@ -41,7 +41,7 @@ This project simplifies HR tasks, ensuring accurate salary calculations and clea
 ![Dashboard Overview](Dashboard.png)
 
 ### Project Banner
-![Project Banner](Images/A1.jpg)
+![Project Banner](A1.jpg)
 
 ---
 
